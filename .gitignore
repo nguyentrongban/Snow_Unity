@@ -1,0 +1,15 @@
+# Unity generated files
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+[Pp]ackages/
+[Ll]ogs/
+[Tt]est_game_1.apk
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln
+*.csproj
+*.pidb
+*.svd

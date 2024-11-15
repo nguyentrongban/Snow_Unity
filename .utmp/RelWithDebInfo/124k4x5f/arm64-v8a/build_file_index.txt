@@ -1,0 +1,2 @@
+D:\UNITY\Game_Unity\PureLove\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\UNITY\Game_Unity\PureLove\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
